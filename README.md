@@ -2,11 +2,6 @@
 
 End-to-End Machine Learning project to predict USA house prices using RandomForest Regression. Achieved R² score of 0.92 on test data.
 
-
-# 🏠 USA House Price Predictor
-
-End-to-End Machine Learning project to predict USA house prices using RandomForest Regression. Achieved R² score of 0.92 on test data.
-
 ## 🚀 Live Demo
 https://usa-house-prediction-t25hfc6hthx7tzdw5prf5q.streamlit.app/
 
